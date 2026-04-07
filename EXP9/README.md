@@ -171,14 +171,8 @@ This experiment helps in understanding secure API development using JWT authenti
 \---
 
 OUTPUT
-
-!\[GET](ssexp9/GET.png)
-
-!\[PORT](ssexp9/PORT.png)
-
-!\[POST](ssexp9/POST.png)
-
-
-
+<img width="1916" height="1066" alt="GET png" src="https://github.com/user-attachments/assets/c63fbd0e-f1cc-4340-a7a4-84276eed2b9b" />
+<img width="1919" height="1079" alt="PORT png" src="https://github.com/user-attachments/assets/094796bd-93af-480b-aa92-56ffb780c66f" />
+<img width="1919" height="1079" alt="POST png" src="https://github.com/user-attachments/assets/4300e8ca-287d-48d0-9f6c-7c6e295ea5ed" />
 
 
